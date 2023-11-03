@@ -1,0 +1,9 @@
+{
+    "name": "reto1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "reto1": "nodemon ./reto_01/index.js"
+    }
+}
