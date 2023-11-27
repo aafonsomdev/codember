@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "reto1": "nodemon ./reto_01/index.js",
-        "reto2": "nodemon ./reto_02/index.js"
+        "reto2": "nodemon ./reto_02/index.js",
+        "reto3": "nodemon ./reto_03/index.js"
     }
 }
